@@ -1,8 +1,17 @@
+
+
 # Defence Management System
+
+
 
 A comprehensive system for tracking and managing military assets, personnel, and operations.
 
 ## Getting Started
+
+https://v0-defence-management-system.vercel.app/dashboard
+
+![Screenshot 2025-05-07 231334](https://github.com/user-attachments/assets/fa5cd1d5-cd71-4f58-995a-837caec197ac)
+
 
 ### Prerequisites
 
